@@ -26,8 +26,6 @@
 
 ---
 
-<h3 align="center">About Me</h3>
-
 <p align="center">
   I work at the intersection of <b>data analysis</b>, <b>scientific computing</b>,
   <b>mathematical physics</b>, and <b>AI evaluation</b>.
@@ -44,10 +42,6 @@
   write prompts and structured test cases, and improve the reliability of LLM behavior.
 </p>
 
----
-
-<h3 align="center">Core Focus</h3>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Data%20Analysis-0A66C2?style=for-the-badge" alt="Data Analysis" />
   <img src="https://img.shields.io/badge/Scientific%20Computing-5C2D91?style=for-the-badge" alt="Scientific Computing" />
@@ -62,8 +56,6 @@
 </p>
 
 ---
-
-<h3 align="center">Tech Stack</h3>
 
 <table align="center">
   <tr>
@@ -148,8 +140,6 @@
 
 ---
 
-<h3 align="center">Tools & Keywords</h3>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
@@ -165,22 +155,22 @@
   <img src="https://img.shields.io/badge/Benchmarking-1D4ED8?style=flat-square" alt="Benchmarking" />
 </p>
 
+<div align="center">
+  <table>
+    <tr>
+      <td align="left">
+        • Analyze complex datasets and extract meaningful patterns<br/>
+        • Build mathematical and numerical models for scientific tasks<br/>
+        • Automate data and research workflows with Python<br/>
+        • Create visualizations, reports, and reproducible analytical pipelines<br/>
+        • Design AI test cases, prompts, and reasoning benchmarks<br/>
+        • Evaluate LLMs for correctness, consistency, and mathematical reliability
+      </td>
+    </tr>
+  </table>
+</div>
+
 ---
-
-<h3 align="center">What I Do</h3>
-
-<p align="center">
-  • Analyze complex datasets and extract meaningful patterns<br/>
-  • Build mathematical and numerical models for scientific tasks<br/>
-  • Automate data and research workflows with Python<br/>
-  • Create visualizations, reports, and reproducible analytical pipelines<br/>
-  • Design AI test cases, prompts, and reasoning benchmarks<br/>
-  • Evaluate LLMs for correctness, consistency, and mathematical reliability
-</p>
-
----
-
-<h3 align="center">Featured Work</h3>
 
 <table align="center">
   <tr>
@@ -205,23 +195,8 @@
   </tr>
 </table>
 
----
-
-<h3 align="center">Professional Positioning</h3>
-
-<p align="center">
-  Data Analyst • Scientific Computing • Research Engineering • AI Evaluation • Quantitative Analysis
-</p>
-
-<p align="center">
-  Particularly interested in roles related to <b>data</b>, <b>research</b>, <b>Python development</b>,
-  <b>scientific software</b>, <b>AI evaluation</b>, and <b>technical problem solving</b>.
-</p>
-
----
-
 <p align="center">
   <i>
-    The universe is written in the language of mathematics — and code is its modern dialect.
+    The universe is written in the language of mathematics - and code is its modern dialect.
   </i>
 </p>
