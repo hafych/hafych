@@ -24,8 +24,6 @@
   </a>
 </p>
 
----
-
 <p align="center">
   I build numerical models, analyze complex data, develop reproducible workflows,
   and evaluate LLMs for mathematical correctness, reasoning quality, and reliability.
@@ -39,10 +37,6 @@
   <img src="https://img.shields.io/badge/Benchmark%20Design-1D4ED8?style=flat-square" alt="Benchmark Design" />
   <img src="https://img.shields.io/badge/Data%20Visualization-D97706?style=flat-square" alt="Data Visualization" />
 </p>
-
----
-
-<h3 align="center">Tech Stack</h3>
 
 <table align="center">
   <tr>
