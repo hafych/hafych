@@ -1,75 +1,227 @@
-<div align="center" style="max-width: 800px; margin: 0 auto; padding: 20px; background-color: #0D1117; border-radius: 16px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-  <img src="https://i.pinimg.com/1200x/24/6a/e7/246ae7d397c73796dd708368883633e4.jpg" 
-       width="200" 
-       style="border-radius: 50%; border: 4px solid #58A6FF; margin: 30px 0; box-shadow: 0 4px 8px rgba(88, 166, 255, 0.5);" />
-  <img src="https://i.pinimg.com/1200x/87/82/b6/8782b64a05cdfa98de48013c3ab0a0e0.jpg" 
-       width="203" 
-       style="border-radius: 50%; border: 4px solid #58A6FF; margin: 30px 0; box-shadow: 0 4px 8px rgba(88, 166, 255, 0.5);" />
-  <img src="https://i.pinimg.com/1200x/dc/3b/8f/dc3b8fb37164a9b05e4cd28d49434c11.jpg" 
-       width="201" 
-       style="border-radius: 50%; border: 4px solid #58A6FF; margin: 30px 0; box-shadow: 0 4px 8px rgba(88, 166, 255, 0.5);" />
-  <img src="https://i.pinimg.com/736x/40/40/ec/4040ec9e83358760dd5035a38a6995d1.jpg" 
-       width="228" 
-       style="border-radius: 50%; border: 4px solid #58A6FF; margin: 30px 0; box-shadow: 0 4px 8px rgba(88, 166, 255, 0.5);" />
+<h1 align="center">Nazarii Hafych</h1>
 
-  <h1 style="color: #C9D1D9; font-size: 2.5em; margin-bottom: 10px;">Nazarii Hafych</h1>
-  <p style="font-size: 1.2em; color: #C9D1D9; margin-bottom: 5px;">
-    Theoretical Physicist • Computational Scientist • Python Developer
-  </p>
-  <p style="color: #8B949E; font-size: 1em; margin-bottom: 20px;">
-     Kraków, Poland |  CET |  Research in Mathematical Physics
-  </p>
+<h3 align="center">
+  Data Analyst • Computational Scientist • LLM Evaluator • Benchmark Designer • Prompt Engineer
+</h3>
 
-  <br>
+<p align="center">
+  Theoretical Physicist with a focus on scientific computing, mathematical modeling,
+  quantitative analysis, and AI reasoning evaluation.
+</p>
 
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin: 25px 0; opacity: 0.9;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
-       alt="Python" width="50" height="50" style="filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" 
-       alt="PostgreSQL" width="50" height="50" style="filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" 
-       alt="MongoDB" width="50" height="50" style="filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" 
-       alt="Docker" width="50" height="50" style="filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spyder/spyder-original.svg" 
-       alt="Spyder" width="50" height="50" style="filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" 
-       alt="VS Code" width="50" height="50" style="filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" 
-       alt="Git" width="50" height="50" style="filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" 
-       alt="LaTeX" width="50" height="50" style="filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wolfram/wolfram-original.svg" 
-       alt="Mathematica" width="50" height="50" style="filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg" 
-       alt="linux" width="50" height="50" style="filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" 
-       alt="Windows 11" width="50" height="50" style="filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" 
-       alt="Django" width="50" height="50" style="filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-line.svg" 
-       alt="Numpy" width="50" height="50" style="filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-plain.svg" 
-       alt="Matplotlib" width="50" height="50" style="filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));" />
-  </div>
-  <br>
-  <div style="margin: 25px 0;">
-    <a href="https://t.me/science_code" target="_blank" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/_Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge" 
-           style="transition: transform 0.3s;" 
-           onmouseover="this.style.transform='scale(1.05)';" 
-           onmouseout="this.style.transform='scale(1)';" />
-    <a href="mailto:nazariihafych@gmail.com" target="_blank" rel="noopener">
-  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Kraków-Poland-0D1117?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Kraków, Poland" />
+  <img src="https://img.shields.io/badge/Timezone-CET-1F6FEB?style=for-the-badge&logo=clockify&logoColor=white" alt="CET" />
+  <img src="https://img.shields.io/badge/Open%20to-Data%20%7C%20Research%20%7C%20AI%20Roles-238636?style=for-the-badge" alt="Open to roles" />
+</p>
+
+<p align="center">
+  <a href="https://t.me/science_code" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
+  <a href="mailto:nazariihafych@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  </div>
-  <hr style="width: 80%; border: 1px solid #30363D; margin: 35px 0;" />
+</p>
 
-  <p style="margin-top: 30px; font-style: italic; color: #8B949E; max-width: 650px; font-size: 1em; text-align: center;">
-    The universe is written in the language of mathematics - and code is its modern dialect.
-  </p>
+---
 
-</div>
+<h3 align="center">About Me</h3>
 
+<p align="center">
+  I work at the intersection of <b>data analysis</b>, <b>scientific computing</b>,
+  <b>mathematical physics</b>, and <b>AI evaluation</b>.
+</p>
 
+<p align="center">
+  My work includes analyzing complex datasets, building numerical models,
+  designing reproducible research workflows, and translating mathematical reasoning
+  into practical software and interpretable results.
+</p>
+
+<p align="center">
+  I also evaluate AI systems for <b>mathematical correctness</b>, design reasoning tasks and benchmarks,
+  write prompts and structured test cases, and improve the reliability of LLM behavior.
+</p>
+
+---
+
+<h3 align="center">Core Focus</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Analysis-0A66C2?style=for-the-badge" alt="Data Analysis" />
+  <img src="https://img.shields.io/badge/Scientific%20Computing-5C2D91?style=for-the-badge" alt="Scientific Computing" />
+  <img src="https://img.shields.io/badge/Mathematical%20Modeling-7C3AED?style=for-the-badge" alt="Mathematical Modeling" />
+  <img src="https://img.shields.io/badge/Statistical%20Analysis-1D9BF0?style=for-the-badge" alt="Statistical Analysis" />
+  <img src="https://img.shields.io/badge/LLM%20Evaluation-9333EA?style=for-the-badge" alt="LLM Evaluation" />
+  <img src="https://img.shields.io/badge/Benchmark%20Design-2563EB?style=for-the-badge" alt="Benchmark Design" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-0891B2?style=for-the-badge" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/Math%20Reasoning%20Testing-DC2626?style=for-the-badge" alt="Math Reasoning Testing" />
+  <img src="https://img.shields.io/badge/Data%20Visualization-F59E0B?style=for-the-badge" alt="Data Visualization" />
+  <img src="https://img.shields.io/badge/Research%20Automation-16A34A?style=for-the-badge" alt="Research Automation" />
+</p>
+
+---
+
+<h3 align="center">Tech Stack</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" /><br />
+      Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="48" height="48" alt="Dart" /><br />
+      Dart
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter" /><br />
+      Flutter
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="48" height="48" alt="Django" /><br />
+      Django
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" /><br />
+      PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" /><br />
+      MongoDB
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" /><br />
+      Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" /><br />
+      Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" /><br />
+      VS Code
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg" width="48" height="48" alt="Linux" /><br />
+      Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" width="48" height="48" alt="LaTeX" /><br />
+      LaTeX
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wolfram/wolfram-original.svg" width="48" height="48" alt="Wolfram" /><br />
+      Wolfram
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" /><br />
+      NumPy
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" /><br />
+      Pandas
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib" /><br />
+      Matplotlib
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter" /><br />
+      Jupyter
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spyder/spyder-original.svg" width="48" height="48" alt="Spyder" /><br />
+      Spyder
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="48" height="48" alt="Windows" /><br />
+      Windows
+    </td>
+  </tr>
+</table>
+
+---
+
+<h3 align="center">Tools & Keywords</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-222222?style=flat-square" alt="Data Analysis" />
+  <img src="https://img.shields.io/badge/EDA-444444?style=flat-square" alt="EDA" />
+  <img src="https://img.shields.io/badge/Statistics-00599C?style=flat-square" alt="Statistics" />
+  <img src="https://img.shields.io/badge/Numerical%20Methods-7E22CE?style=flat-square" alt="Numerical Methods" />
+  <img src="https://img.shields.io/badge/Scientific%20Computing-6A1B9A?style=flat-square" alt="Scientific Computing" />
+  <img src="https://img.shields.io/badge/Data%20Visualization-E65100?style=flat-square" alt="Data Visualization" />
+  <img src="https://img.shields.io/badge/Mathematical%20Physics-1E3A8A?style=flat-square" alt="Mathematical Physics" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-0F766E?style=flat-square" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/LLM%20Evaluation-7C3AED?style=flat-square" alt="LLM Evaluation" />
+  <img src="https://img.shields.io/badge/Benchmarking-1D4ED8?style=flat-square" alt="Benchmarking" />
+</p>
+
+---
+
+<h3 align="center">What I Do</h3>
+
+<p align="center">
+  • Analyze complex datasets and extract meaningful patterns<br/>
+  • Build mathematical and numerical models for scientific tasks<br/>
+  • Automate data and research workflows with Python<br/>
+  • Create visualizations, reports, and reproducible analytical pipelines<br/>
+  • Design AI test cases, prompts, and reasoning benchmarks<br/>
+  • Evaluate LLMs for correctness, consistency, and mathematical reliability
+</p>
+
+---
+
+<h3 align="center">Featured Work</h3>
+
+<table align="center">
+  <tr>
+    <td width="420" valign="top">
+      <b>Data Analysis Projects</b><br />
+      Exploratory data analysis, statistics, visualization, notebooks, reporting pipelines.
+    </td>
+    <td width="420" valign="top">
+      <b>Scientific Computing</b><br />
+      Numerical methods, simulations, mathematical modeling, computational experiments.
+    </td>
+  </tr>
+  <tr>
+    <td width="420" valign="top">
+      <b>LLM Evaluation & Benchmarks</b><br />
+      AI math reasoning tests, evaluation sets, prompt experiments, structured quality checks.
+    </td>
+    <td width="420" valign="top">
+      <b>Flutter / Dart Applications</b><br />
+      Cross-platform applications, UI experiments, mobile and desktop development.
+    </td>
+  </tr>
+</table>
+
+---
+
+<h3 align="center">Professional Positioning</h3>
+
+<p align="center">
+  Data Analyst • Scientific Computing • Research Engineering • AI Evaluation • Quantitative Analysis
+</p>
+
+<p align="center">
+  Particularly interested in roles related to <b>data</b>, <b>research</b>, <b>Python development</b>,
+  <b>scientific software</b>, <b>AI evaluation</b>, and <b>technical problem solving</b>.
+</p>
+
+---
+
+<p align="center">
+  <i>
+    The universe is written in the language of mathematics — and code is its modern dialect.
+  </i>
+</p>
