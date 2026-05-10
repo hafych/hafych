@@ -95,8 +95,6 @@
 
 ---
 
-<h3 align="center">What I Work On</h3>
-
 <table align="center">
   <tr>
     <td width="420" valign="top">
@@ -122,33 +120,6 @@
 
 ---
 
-<h3 align="center">Featured Directions</h3>
-
-<table align="center">
-  <tr>
-    <td width="420" valign="top">
-      <b>Data Analysis Projects</b><br />
-      Statistics, EDA, dashboards, notebooks, and analytical pipelines.
-    </td>
-    <td width="420" valign="top">
-      <b>Scientific Computing</b><br />
-      Numerical experiments, simulation code, and mathematical problem solving.
-    </td>
-  </tr>
-  <tr>
-    <td width="420" valign="top">
-      <b>LLM Evaluation & Benchmarks</b><br />
-      Math reasoning tests, benchmark design, prompt experiments, structured QA.
-    </td>
-    <td width="420" valign="top">
-      <b>Flutter / Dart Applications</b><br />
-      Cross-platform apps, interfaces, and software prototypes.
-    </td>
-  </tr>
-</table>
-
----
-
 <p align="center">
-  <i>The universe is written in the language of mathematics — and code is its modern dialect.</i>
+  <i>The universe is written in the language of mathematics - and code is its modern dialect.</i>
 </p>
