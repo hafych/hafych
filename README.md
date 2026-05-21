@@ -117,9 +117,3 @@
     </td>
   </tr>
 </table>
-
----
-
-<p align="center">
-  <i>The universe is written in the language of mathematics - and code is its modern dialect.</i>
-</p>
