@@ -92,28 +92,3 @@
     </td>
   </tr>
 </table>
-
----
-
-<table align="center">
-  <tr>
-    <td width="420" valign="top">
-      <b>Data Analysis</b><br />
-      Complex datasets, exploratory analysis, statistical reasoning, visualization, and reporting.
-    </td>
-    <td width="420" valign="top">
-      <b>Scientific Computing</b><br />
-      Numerical methods, mathematical modeling, simulations, and reproducible research workflows.
-    </td>
-  </tr>
-  <tr>
-    <td width="420" valign="top">
-      <b>LLM Evaluation</b><br />
-      Testing models for mathematical correctness, reasoning quality, consistency, and reliability.
-    </td>
-    <td width="420" valign="top">
-      <b>Benchmark & Prompt Design</b><br />
-      Writing structured tasks, evaluation sets, prompts, and test cases for AI systems.
-    </td>
-  </tr>
-</table>
