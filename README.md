@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="#04--public-work">
-    <img src="assets/terminal-embers.gif" width="100%" alt="Nazarii Hafych — animated terminal profile with glowing embers">
-  </a>
-</p>
-
 ```text
 $ profile --show
 
