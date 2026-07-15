@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="420" viewBox="0 0 1000 420" role="img" aria-labelledby="title desc">
+  <title id="title">Nazarii Hafych operations console</title>
+  <desc id="desc">An old-school green phosphor computer terminal showing DevOps-oriented profile information.</desc>
+
+  <defs>
+    <pattern id="dot-grid" width="12" height="12" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="0.9" fill="#3f6f47" opacity="0.34" />
+    </pattern>
+    <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#000000" opacity="0.28" />
+    </pattern>
+    <linearGradient id="screen" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0b110d" />
+      <stop offset="0.55" stop-color="#050906" />
+      <stop offset="1" stop-color="#020403" />
+    </linearGradient>
+    <radialGradient id="glass" cx="50%" cy="42%" r="70%">
+      <stop offset="0" stop-color="#21442a" stop-opacity="0.15" />
+      <stop offset="0.75" stop-color="#000000" stop-opacity="0" />
+      <stop offset="1" stop-color="#000000" stop-opacity="0.52" />
+    </radialGradient>
+    <clipPath id="screen-clip">
+      <rect x="18" y="18" width="964" height="384" rx="24" />
+    </clipPath>
+  </defs>
+
+  <rect width="1000" height="420" rx="30" fill="#111512" />
+  <rect x="10" y="10" width="980" height="400" rx="28" fill="#050705" stroke="#26342a" stroke-width="2" />
+  <rect x="18" y="18" width="964" height="384" rx="24" fill="url(#screen)" stroke="#406447" stroke-width="2" />
+
+  <g clip-path="url(#screen-clip)">
+    <rect x="18" y="18" width="964" height="384" fill="url(#dot-grid)" />
+    <rect x="18" y="18" width="964" height="384" fill="url(#glass)" />
+
+    <g font-family="'SFMono-Regular', 'Cascadia Mono', 'Liberation Mono', Menlo, Consolas, monospace">
+      <text x="54" y="61" fill="#d7a84b" font-size="16" letter-spacing="2.5">NH/OS 4.2.0</text>
+      <text x="946" y="61" fill="#8bc88f" font-size="15" text-anchor="end">[ SYS:ONLINE ]</text>
+      <line x1="54" y1="78" x2="946" y2="78" stroke="#426a49" stroke-width="1" stroke-dasharray="2 8" />
+
+      <text x="54" y="122" fill="#7ef58a" font-size="27" font-weight="700" letter-spacing="1.2">
+        NAZARII HAFYCH
+      </text>
+      <text x="54" y="151" fill="#9bb99e" font-size="16" letter-spacing="3">OPERATIONS CONSOLE // KRAKÓW</text>
+
+      <text x="54" y="200" fill="#587c5d" font-size="16">01</text>
+      <text x="104" y="200" fill="#a8d8ad" font-size="17">MODE</text>
+      <text x="222" y="200" fill="#5f8a65" font-size="17">................................</text>
+      <text x="570" y="200" fill="#d7a84b" font-size="17">DEVOPS / AUTOMATION</text>
+
+      <text x="54" y="236" fill="#587c5d" font-size="16">02</text>
+      <text x="104" y="236" fill="#a8d8ad" font-size="17">STACK</text>
+      <text x="222" y="236" fill="#5f8a65" font-size="17">................................</text>
+      <text x="570" y="236" fill="#7ef58a" font-size="17">LINUX · PYTHON · DOCKER</text>
+
+      <text x="54" y="272" fill="#587c5d" font-size="16">03</text>
+      <text x="104" y="272" fill="#a8d8ad" font-size="17">SIGNAL</text>
+      <text x="222" y="272" fill="#5f8a65" font-size="17">................................</text>
+      <text x="570" y="272" fill="#7ef58a" font-size="17">LOGS / DATA / NETWORKS</text>
+
+      <text x="54" y="308" fill="#587c5d" font-size="16">04</text>
+      <text x="104" y="308" fill="#a8d8ad" font-size="17">POLICY</text>
+      <text x="222" y="308" fill="#5f8a65" font-size="17">................................</text>
+      <text x="570" y="308" fill="#d7a84b" font-size="17">BORING IS RELIABLE</text>
+
+      <line x1="54" y1="334" x2="946" y2="334" stroke="#426a49" stroke-width="1" stroke-dasharray="2 8" />
+      <text x="54" y="371" fill="#7ef58a" font-size="18">nazarii@workstation:~$</text>
+      <rect x="290" y="353" width="12" height="22" fill="#7ef58a" opacity="0.92" />
+      <text x="946" y="371" fill="#5f8a65" font-size="14" text-anchor="end">UTC+01/02 · TTY01</text>
+    </g>
+
+    <rect x="18" y="18" width="964" height="384" fill="url(#scanlines)" pointer-events="none" />
+    <path d="M42 34 Q500 8 958 34" fill="none" stroke="#dfffe2" stroke-opacity="0.08" stroke-width="2" />
+  </g>
+
+  <circle cx="32" cy="392" r="3" fill="#6fdc79" opacity="0.65" />
+  <circle cx="968" cy="392" r="3" fill="#6fdc79" opacity="0.65" />
+</svg>
