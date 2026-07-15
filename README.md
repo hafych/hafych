@@ -224,11 +224,12 @@ Bridge.......Connecting scientific rigor with product engineering
 ### 12 / CONTACT
 
 ```text
+LinkedIn.....nazarii-hafych
 Telegram.....@science_code
 Email........nazariihafych@gmail.com
 Open_to......Data / research / AI evaluation / scientific software
 ```
 
-[telegram](https://t.me/science_code) · [email](mailto:nazariihafych@gmail.com)
+[linkedin](https://www.linkedin.com/in/nazarii-hafych/) · [telegram](https://t.me/science_code) · [email](mailto:nazariihafych@gmail.com)
 
 </details>
