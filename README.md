@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/ops-console.svg" alt="Nazarii Hafych — old-school operations console" width="100%" />
+  <img src="https://raw.githubusercontent.com/hafych/hafych/main/assets/ops-console.svg" alt="Nazarii Hafych — old-school operations console" width="100%" />
 </p>
 
 ```console
