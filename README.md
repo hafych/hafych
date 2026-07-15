@@ -5,9 +5,11 @@ Name.........Nazarii Hafych
 Location.....Kraków, Poland
 Timezone.....CET / CEST
 Training.....Theoretical physics
-Primary......Computational scientist / data analyst
-AI_roles.....LLM evaluator / prompt engineer / benchmark designer
-Engineering..Flutter product engineer / Python backend engineer
+Current......Physics Expert (SQP) / Mercor
+Primary......Mathematics intelligence / theoretical physics
+AI_roles.....LLM evaluator / mathematics expert / prompt engineer
+Engineering..Python developer / Flutter product engineer
+Evidence.....4,000+ reviewed math tasks / undergraduate -> PhD
 Mode.........Physics / data / AI / security / product systems
 Status.......Open to data / research / AI / engineering
 ```
@@ -17,6 +19,10 @@ Status.......Open to data / research / AI / engineering
 Physicist by training, practical builder by habit. I work where numerical
 reasoning meets useful software: scientific computing, quantitative analysis,
 AI evaluation, automation, and cross-platform product development.
+
+Professionally, I evaluate mathematical reasoning in AI systems, design prompts
+for rigorous solutions, review model responses against academic standards, and
+turn quality findings into reproducible evidence for model improvement.
 
 I prefer systems that make assumptions, outputs, and failure modes visible.
 The goal is not only to produce an answer, but to make the result inspectable,
@@ -45,13 +51,25 @@ Provenance...Watermarking / steganography / C2PA / survival metrics
 Optimization.Route planning / time windows / cost models / reports
 Reliability..Unit / integration / fuzz tests / recovery paths
 Delivery.....Docker / CI / release builds / stores / subscriptions
+Education....Mathematics teaching / physics content / scriptwriting
 Docs.........Operator guides / threat models / architecture maps / policy
 ```
 
 <details>
-<summary><strong>03 / HISTORY SIGNAL</strong> — what the Git record shows</summary>
+<summary><strong>03 / PROFESSIONAL + GIT HISTORY</strong> — roles, progression, and delivery signal</summary>
 
 <br>
+
+### PROFESSIONAL TIMELINE
+
+```text
+2020-2021....Editor-scriptwriter / physics books and educational videos
+2023-2025....Mathematics tutor / undergraduate and high-school students
+2025.........Mathematics Intelligence Engineer + Mathematics Expert / Mercor
+2026.........Physics Expert (SQP) / Mercor
+```
+
+### GIT TIMELINE
 
 The Git history shows a clear progression rather than a collection of isolated
 experiments.
@@ -149,7 +167,19 @@ structured output, and end-to-end tests.
 I evaluate models as systems rather than demos. Fluency is useful only when the
 answer is also correct, consistent, calibrated, and robust.
 
+At Mercor, I evaluated the mathematical accuracy and reasoning quality of
+Meta's Llama model responses across more than 4,000 tasks, from undergraduate
+material to PhD-level mathematics. I also designed mathematical prompts,
+prepared structured solutions in LaTeX, and produced detailed QA reports for
+benchmarking and model refinement.
+
 ```text
+Current......Physics Expert (SQP) / response accuracy / level appropriateness
+Scale........4,000+ reviewed mathematical tasks
+Range........Undergraduate -> PhD
+Models.......Meta Llama / mathematical reasoning evaluation
+Prompts......Rigorous solution elicitation / structure / LaTeX / pedagogy
+Reports......QA findings / academic standards / benchmarking evidence
 Correctness..Is the result mathematically, logically, and factually sound?
 Reasoning....Do the intermediate steps support the conclusion?
 Reliability..Does the method survive edge cases and adversarial inputs?
@@ -183,11 +213,13 @@ Operations...Docker / structured logs / JSONL / operator documentation
 Languages....Python / Dart / SQL / Bash / JavaScript / TypeScript
 Native.......Swift / Kotlin integration through Flutter platform channels
 Data.........NumPy / Pandas / SciPy / Matplotlib / Jupyter
+Math.........Mathematica / LaTeX / linear algebra / higher mathematics
 Storage......PostgreSQL / MongoDB / SQLite / local application storage
 Backend......Django / Quart / FastAPI-style APIs / async Python
 Apps.........Flutter / local-first architecture / desktop and mobile
 Media........FFmpeg / Whisper / OCR / PDF processing
 Systems......Linux / Docker / Git / GitHub Actions / Nmap
+Office.......Excel / Microsoft Office
 Formats......JSON / JSONL / PDF / DOCX / EPUB / Fountain / FDX
 ```
 
@@ -207,11 +239,20 @@ Formats......JSON / JSONL / PDF / DOCX / EPUB / Fountain / FDX
 </details>
 
 <details>
-<summary><strong>11–12 / DIRECTION + CONTACT</strong> — current focus and ways to connect</summary>
+<summary><strong>11–13 / EDUCATION + DIRECTION + CONTACT</strong> — background, focus, and ways to connect</summary>
 
 <br>
 
-### 11 / CURRENT DIRECTION
+### 11 / EDUCATION
+
+```text
+MSc..........Physics / theoretical physics / Karazin University / 2025
+Python.......Python Developer program / CyberBionic Systematics / 2026
+Study........Jagiellonian University / Kraków / 2022-2024
+Foundation...Physics / Karazin University / 2020-2024
+```
+
+### 12 / CURRENT DIRECTION
 
 ```text
 Security.....Hardening automation and machine-readable recon workflows
@@ -221,7 +262,7 @@ Science......Applying quantitative reasoning to practical systems
 Bridge.......Connecting scientific rigor with product engineering
 ```
 
-### 12 / CONTACT
+### 13 / CONTACT
 
 ```text
 LinkedIn.....nazarii-hafych
