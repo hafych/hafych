@@ -31,9 +31,7 @@ reproducible, and trustworthy.
 ## 02 / ROLE MAP
 
 <p align="center">
-  <a href="#04--public-work">
-    <img src="assets/system-map.gif" width="100%" alt="Animated map of science, data, AI, product, and security roles">
-  </a>
+  <img src="assets/system-map.gif" width="100%" alt="Animated map of science, data, AI, product, and security roles">
 </p>
 
 ```text
@@ -89,41 +87,12 @@ accessibility, release gates, and store readiness.
 
 </details>
 
-## 04 / PUBLIC WORK
-
-### [nmap-automator](https://github.com/hafych/nmap-automator)
-
-```text
-Role.........Security automation / Python backend / operator tooling
-Purpose......Repeatable Nmap operations through an API and dashboard
-Stack........Python / Quart / Nmap / Docker / GitHub Actions / pytest
-Security.....Authentication / rate limits / encrypted scan results
-Output.......Recon plans / dependency inventory / JSON / JSONL
-```
-
-Built for both human operators and terminal or AI workflows. It combines
-scheduled scanning with structured artifacts that can be inspected, stored,
-and passed to other tools.
-
-### [Lifetime-Universe](https://github.com/hafych/Lifetime-Universe)
-
-```text
-Role.........Computational science / data analysis / visualization
-Purpose......Analyze the SCP Union2.1 Type Ia supernova catalogue
-Stack........Python / NumPy / SciPy / Matplotlib
-Model........Flat Lambda-CDM with different matter-density parameters
-Output.......Processed observations / comparisons / age estimates
-```
-
-A compact scientific project connecting observational cosmology, numerical
-methods, and data visualization.
-
 <details>
-<summary><strong>05–06 / PRODUCT + APPLIED SYSTEMS</strong> — private product work and domain systems</summary>
+<summary><strong>04–05 / PRODUCT + APPLIED SYSTEMS</strong> — private product work and domain systems</summary>
 
 <br>
 
-### 05 / PRODUCT SYSTEMS
+### 04 / PRODUCT SYSTEMS
 
 Most recent product repositories are private. Their code and history show work
 across several complete product surfaces:
@@ -141,7 +110,7 @@ Trust........Watermarks / steganography / C2PA / PSNR / survival tests
 Business.....Auth / roles / approvals / billing / entitlements / exports
 ```
 
-### 06 / APPLIED SYSTEMS
+### 05 / APPLIED SYSTEMS
 
 ```text
 Security.....Multi-tool scan orchestration / findings / HTML reports
@@ -158,11 +127,11 @@ structured output, and end-to-end tests.
 </details>
 
 <details>
-<summary><strong>07–08 / AI EVALUATION + ENGINEERING</strong> — evaluation method and delivery practice</summary>
+<summary><strong>06–07 / AI EVALUATION + ENGINEERING</strong> — evaluation method and delivery practice</summary>
 
 <br>
 
-### 07 / AI EVALUATION
+### 06 / AI EVALUATION
 
 I evaluate models as systems rather than demos. Fluency is useful only when the
 answer is also correct, consistent, calibrated, and robust.
@@ -188,7 +157,7 @@ Diagnostics..Can failures be reproduced and turned into better tests?
 Rubrics......Are quality criteria explicit and consistently applicable?
 ```
 
-### 08 / ENGINEERING PRACTICE
+### 07 / ENGINEERING PRACTICE
 
 ```text
 Architecture.Feature modules / services / repositories / controllers
@@ -203,11 +172,11 @@ Operations...Docker / structured logs / JSONL / operator documentation
 </details>
 
 <details>
-<summary><strong>09–10 / TOOLBOX + WORKFLOW</strong> — stack and working method</summary>
+<summary><strong>08–09 / TOOLBOX + WORKFLOW</strong> — stack and working method</summary>
 
 <br>
 
-### 09 / TOOLBOX
+### 08 / TOOLBOX
 
 ```text
 Languages....Python / Dart / SQL / Bash / JavaScript / TypeScript
@@ -223,7 +192,7 @@ Office.......Excel / Microsoft Office
 Formats......JSON / JSONL / PDF / DOCX / EPUB / Fountain / FDX
 ```
 
-### 10 / WORKFLOW
+### 09 / WORKFLOW
 
 ```text
 01...........Define what correct means
@@ -239,11 +208,11 @@ Formats......JSON / JSONL / PDF / DOCX / EPUB / Fountain / FDX
 </details>
 
 <details>
-<summary><strong>11–13 / EDUCATION + DIRECTION + CONTACT</strong> — background, focus, and ways to connect</summary>
+<summary><strong>10–12 / EDUCATION + DIRECTION + CONTACT</strong> — background, focus, and ways to connect</summary>
 
 <br>
 
-### 11 / EDUCATION
+### 10 / EDUCATION
 
 ```text
 MSc..........Physics / theoretical physics / Karazin University / 2025
@@ -252,7 +221,7 @@ Study........Jagiellonian University / Kraków / 2022-2024
 Foundation...Physics / Karazin University / 2020-2024
 ```
 
-### 12 / CURRENT DIRECTION
+### 11 / CURRENT DIRECTION
 
 ```text
 Security.....Hardening automation and machine-readable recon workflows
@@ -262,7 +231,7 @@ Science......Applying quantitative reasoning to practical systems
 Bridge.......Connecting scientific rigor with product engineering
 ```
 
-### 13 / CONTACT
+### 12 / CONTACT
 
 ```text
 LinkedIn.....nazarii-hafych
