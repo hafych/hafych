@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Nazarii Hafych — animated terminal profile</title>
+  <desc id="desc">A light terminal panel with a blinking cursor, glowing coals, rising sparks, and subtle flames.</desc>
+
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fbfaf7"/>
+      <stop offset="1" stop-color="#f0eee8"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f97316" stop-opacity="0"/>
+      <stop offset="0.2" stop-color="#f97316" stop-opacity="0.9"/>
+      <stop offset="0.8" stop-color="#2563eb" stop-opacity="0.65"/>
+      <stop offset="1" stop-color="#2563eb" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="coal">
+      <stop offset="0" stop-color="#fff7ed"/>
+      <stop offset="0.3" stop-color="#fb923c"/>
+      <stop offset="0.72" stop-color="#c2410c"/>
+      <stop offset="1" stop-color="#292524"/>
+    </radialGradient>
+    <linearGradient id="flame" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#dc2626" stop-opacity="0.9"/>
+      <stop offset="0.55" stop-color="#f97316" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#facc15" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="panel-clip">
+      <rect x="12" y="12" width="1176" height="336" rx="22"/>
+    </clipPath>
+  </defs>
+
+  <rect x="12" y="12" width="1176" height="336" rx="22" fill="url(#panel)" stroke="#d6d3d1" stroke-width="2"/>
+  <path d="M12 62H1188" stroke="#dedbd4"/>
+  <circle cx="42" cy="37" r="6" fill="#fb923c"/>
+  <circle cx="64" cy="37" r="6" fill="#facc15"/>
+  <circle cx="86" cy="37" r="6" fill="#60a5fa"/>
+  <text x="1118" y="42" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#78716c">profile.sh</text>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <text x="62" y="105" font-size="17" fill="#c2410c">$ profile --show</text>
+    <text x="62" y="164" font-size="38" font-weight="700" letter-spacing="1" fill="#1c1917">NAZARII HAFYCH</text>
+    <rect x="423" y="132" width="17" height="38" rx="2" fill="#f97316">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.45;0.5;0.95;1" dur="1.2s" repeatCount="indefinite"/>
+    </rect>
+    <text x="64" y="203" font-size="17" fill="#57534e">computational science / data / AI evaluation / product engineering</text>
+    <text x="64" y="236" font-size="15" fill="#78716c">Kraków · CET/CEST · inspectable systems · reproducible results</text>
+  </g>
+
+  <rect x="62" y="264" width="1076" height="2" fill="url(#rule)">
+    <animate attributeName="opacity" values="0.45;1;0.45" dur="4s" repeatCount="indefinite"/>
+  </rect>
+
+  <g clip-path="url(#panel-clip)">
+    <g opacity="0.34" filter="url(#glow)">
+      <ellipse cx="168" cy="340" rx="116" ry="20" fill="#f97316">
+        <animate attributeName="opacity" values="0.18;0.48;0.22" dur="3.6s" repeatCount="indefinite"/>
+      </ellipse>
+      <ellipse cx="584" cy="342" rx="158" ry="21" fill="#ea580c">
+        <animate attributeName="opacity" values="0.22;0.52;0.2" dur="4.3s" repeatCount="indefinite"/>
+      </ellipse>
+      <ellipse cx="1010" cy="340" rx="124" ry="19" fill="#f59e0b">
+        <animate attributeName="opacity" values="0.2;0.46;0.18" dur="3.1s" repeatCount="indefinite"/>
+      </ellipse>
+    </g>
+
+    <g opacity="0.82">
+      <circle cx="82" cy="338" r="13" fill="url(#coal)"/>
+      <circle cx="116" cy="333" r="18" fill="url(#coal)"/>
+      <circle cx="158" cy="340" r="15" fill="url(#coal)"/>
+      <circle cx="201" cy="332" r="20" fill="url(#coal)"/>
+      <circle cx="247" cy="339" r="16" fill="url(#coal)"/>
+      <circle cx="478" cy="337" r="17" fill="url(#coal)"/>
+      <circle cx="522" cy="331" r="21" fill="url(#coal)"/>
+      <circle cx="571" cy="338" r="17" fill="url(#coal)"/>
+      <circle cx="616" cy="330" r="22" fill="url(#coal)"/>
+      <circle cx="666" cy="339" r="16" fill="url(#coal)"/>
+      <circle cx="904" cy="338" r="15" fill="url(#coal)"/>
+      <circle cx="946" cy="331" r="20" fill="url(#coal)"/>
+      <circle cx="994" cy="339" r="17" fill="url(#coal)"/>
+      <circle cx="1040" cy="332" r="19" fill="url(#coal)"/>
+      <circle cx="1083" cy="339" r="14" fill="url(#coal)"/>
+    </g>
+
+    <g fill="url(#flame)" filter="url(#glow)">
+      <path d="M184 345C160 318 186 306 190 284C216 310 223 326 207 345Z" opacity="0.34">
+        <animate attributeName="opacity" values="0.12;0.54;0.18" dur="2.4s" repeatCount="indefinite"/>
+      </path>
+      <path d="M594 345C565 315 598 300 602 276C632 307 637 327 618 345Z" opacity="0.32">
+        <animate attributeName="opacity" values="0.16;0.58;0.14" dur="2.9s" repeatCount="indefinite"/>
+      </path>
+      <path d="M1009 345C985 320 1011 307 1018 288C1042 315 1044 330 1028 345Z" opacity="0.3">
+        <animate attributeName="opacity" values="0.12;0.5;0.16" dur="2.2s" repeatCount="indefinite"/>
+      </path>
+    </g>
+
+    <g fill="#f97316" filter="url(#glow)">
+      <circle cx="193" cy="326" r="3">
+        <animateTransform attributeName="transform" type="translate" values="0 0;-18 -62;-8 -112" dur="2.8s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;1;0" dur="2.8s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="607" cy="328" r="3">
+        <animateTransform attributeName="transform" type="translate" values="0 0;15 -72;4 -128" dur="3.3s" begin="0.8s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;1;0" dur="3.3s" begin="0.8s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="1021" cy="329" r="2.5">
+        <animateTransform attributeName="transform" type="translate" values="0 0;-12 -58;7 -106" dur="2.6s" begin="0.3s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;0.9;0" dur="2.6s" begin="0.3s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+  </g>
+</svg>

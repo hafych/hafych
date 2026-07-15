@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="#04--public-work">
+    <img src="assets/terminal-embers.svg" width="100%" alt="Nazarii Hafych — animated terminal profile with glowing embers">
+  </a>
+</p>
+
 ```text
 $ profile --show
 
@@ -24,6 +30,12 @@ reproducible, and trustworthy.
 
 ## 02 / ROLE MAP
 
+<p align="center">
+  <a href="#04--public-work">
+    <img src="assets/system-map.svg" width="100%" alt="Animated map of science, data, AI, product, and security roles">
+  </a>
+</p>
+
 ```text
 Science......Theoretical physics / scientific computing / cosmology
 Analysis.....Data exploration / quantitative methods / visualization
@@ -42,7 +54,10 @@ Delivery.....Docker / CI / release builds / stores / subscriptions
 Docs.........Operator guides / threat models / architecture maps / policy
 ```
 
-## 03 / HISTORY SIGNAL
+<details>
+<summary><strong>03 / HISTORY SIGNAL</strong> — what the Git record shows</summary>
+
+<br>
 
 The Git history shows a clear progression rather than a collection of isolated
 experiments.
@@ -59,6 +74,8 @@ Pattern......Build -> modularize -> test -> harden -> prepare release
 Recent history repeatedly moves projects from MVP work into modular
 architecture, failure recovery, security review, test coverage, localization,
 accessibility, release gates, and store readiness.
+
+</details>
 
 ## 04 / PUBLIC WORK
 
@@ -89,7 +106,12 @@ Output.......Processed observations / comparisons / age estimates
 A compact scientific project connecting observational cosmology, numerical
 methods, and data visualization.
 
-## 05 / PRODUCT SYSTEMS
+<details>
+<summary><strong>05–06 / PRODUCT + APPLIED SYSTEMS</strong> — private product work and domain systems</summary>
+
+<br>
+
+### 05 / PRODUCT SYSTEMS
 
 Most recent product repositories are private. Their code and history show work
 across several complete product surfaces:
@@ -107,7 +129,7 @@ Trust........Watermarks / steganography / C2PA / PSNR / survival tests
 Business.....Auth / roles / approvals / billing / entitlements / exports
 ```
 
-## 06 / APPLIED SYSTEMS
+### 06 / APPLIED SYSTEMS
 
 ```text
 Security.....Multi-tool scan orchestration / findings / HTML reports
@@ -121,7 +143,14 @@ These projects add a second engineering axis beyond UI work: domain models,
 validation, orchestration, asynchronous operations, authentication, storage,
 structured output, and end-to-end tests.
 
-## 07 / AI EVALUATION
+</details>
+
+<details>
+<summary><strong>07–08 / AI EVALUATION + ENGINEERING</strong> — evaluation method and delivery practice</summary>
+
+<br>
+
+### 07 / AI EVALUATION
 
 I evaluate models as systems rather than demos. Fluency is useful only when the
 answer is also correct, consistent, calibrated, and robust.
@@ -135,7 +164,7 @@ Diagnostics..Can failures be reproduced and turned into better tests?
 Rubrics......Are quality criteria explicit and consistently applicable?
 ```
 
-## 08 / ENGINEERING PRACTICE
+### 08 / ENGINEERING PRACTICE
 
 ```text
 Architecture.Feature modules / services / repositories / controllers
@@ -147,7 +176,14 @@ Release......CI / signed builds / TestFlight / Play Store / RevenueCat
 Operations...Docker / structured logs / JSONL / operator documentation
 ```
 
-## 09 / TOOLBOX
+</details>
+
+<details>
+<summary><strong>09–10 / TOOLBOX + WORKFLOW</strong> — stack and working method</summary>
+
+<br>
+
+### 09 / TOOLBOX
 
 ```text
 Languages....Python / Dart / SQL / Bash / JavaScript / TypeScript
@@ -161,7 +197,7 @@ Systems......Linux / Docker / Git / GitHub Actions / Nmap
 Formats......JSON / JSONL / PDF / DOCX / EPUB / Fountain / FDX
 ```
 
-## 10 / WORKFLOW
+### 10 / WORKFLOW
 
 ```text
 01...........Define what correct means
@@ -174,7 +210,14 @@ Formats......JSON / JSONL / PDF / DOCX / EPUB / Fountain / FDX
 08...........Document the handoff and release path
 ```
 
-## 11 / CURRENT DIRECTION
+</details>
+
+<details>
+<summary><strong>11–12 / DIRECTION + CONTACT</strong> — current focus and ways to connect</summary>
+
+<br>
+
+### 11 / CURRENT DIRECTION
 
 ```text
 Security.....Hardening automation and machine-readable recon workflows
@@ -184,7 +227,7 @@ Science......Applying quantitative reasoning to practical systems
 Bridge.......Connecting scientific rigor with product engineering
 ```
 
-## 12 / CONTACT
+### 12 / CONTACT
 
 ```text
 Telegram.....@science_code
@@ -194,6 +237,4 @@ Open_to......Data / research / AI evaluation / scientific software
 
 [telegram](https://t.me/science_code) · [email](mailto:nazariihafych@gmail.com)
 
-```text
-$ exit 0
-```
+</details>
