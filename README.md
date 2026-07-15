@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#04--public-work">
-    <img src="assets/terminal-embers.svg" width="100%" alt="Nazarii Hafych — animated terminal profile with glowing embers">
+    <img src="assets/terminal-embers.gif" width="100%" alt="Nazarii Hafych — animated terminal profile with glowing embers">
   </a>
 </p>
 
@@ -32,7 +32,7 @@ reproducible, and trustworthy.
 
 <p align="center">
   <a href="#04--public-work">
-    <img src="assets/system-map.svg" width="100%" alt="Animated map of science, data, AI, product, and security roles">
+    <img src="assets/system-map.gif" width="100%" alt="Animated map of science, data, AI, product, and security roles">
   </a>
 </p>
 

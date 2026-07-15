@@ -15,10 +15,10 @@
       <feGaussianBlur stdDeviation="3" result="b"/>
       <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
-    <path id="p-science" d="M470 112C390 84 320 62 240 62"/>
-    <path id="p-data" d="M470 130C380 146 315 181 230 185"/>
-    <path id="p-ai" d="M730 112C820 82 886 62 960 62"/>
-    <path id="p-product" d="M730 130C812 145 876 181 960 185"/>
+    <path id="p-science" d="M465 112C405 84 350 62 292 62"/>
+    <path id="p-data" d="M465 130C400 146 350 181 302 185"/>
+    <path id="p-ai" d="M735 112C795 82 850 62 908 62"/>
+    <path id="p-product" d="M735 130C800 145 850 181 898 185"/>
   </defs>
 
   <rect x="12" y="12" width="1176" height="226" rx="22" fill="url(#map-bg)" stroke="#d6d3d1" stroke-width="2"/>
