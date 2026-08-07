@@ -14,7 +14,12 @@ Mode.........Physics / data / AI / security / product systems
 Status.......Open to data / research / AI / engineering
 ```
 
-`01 / PROFILE`
+<details>
+<summary><strong>01–02 / PROFILE + ROLE MAP</strong> — background, current work, and technical scope</summary>
+
+<br>
+
+### 01 / PROFILE
 
 Physicist by training, practical builder by habit. I work where numerical
 reasoning meets useful software: scientific computing, quantitative analysis,
@@ -28,7 +33,7 @@ I prefer systems that make assumptions, outputs, and failure modes visible.
 The goal is not only to produce an answer, but to make the result inspectable,
 reproducible, and trustworthy.
 
-`02 / ROLE MAP`
+### 02 / ROLE MAP
 
 <p align="center">
   <img src="assets/system-map.gif" width="100%" alt="Animated map of science, data, AI, product, and security roles">
@@ -52,6 +57,8 @@ Delivery.....Docker / CI / release builds / stores / subscriptions
 Education....Mathematics teaching / physics content / scriptwriting
 Docs.........Operator guides / threat models / architecture maps / policy
 ```
+
+</details>
 
 <details>
 <summary><strong>03 / PROFESSIONAL + GIT HISTORY</strong> — roles, progression, and delivery signal</summary>
