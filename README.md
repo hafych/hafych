@@ -5,7 +5,6 @@ Name.........Nazarii Hafych
 Location.....Kraków, Poland
 Timezone.....CET / CEST
 Training.....Theoretical physics
-Current......Physics Expert (SQP) / Mercor
 Primary......Mathematics intelligence / theoretical physics
 AI_roles.....LLM evaluator / mathematics expert / prompt engineer
 Engineering..Python developer / Flutter product engineer
