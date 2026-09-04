@@ -1,7 +1,8 @@
 ### nazarii hafych — python / flutter engineer
-msc theoretical physics · kraków, pl
+msc theoretical physics · kraków, pl · english b2
 
 ![Open to work](https://img.shields.io/badge/open_to_work-yes-brightgreen?style=flat-square)
+![Shipped on Google Play](https://img.shields.io/badge/shipped_on-Google_Play-3DDC84?style=flat-square&logo=googleplay&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
@@ -18,11 +19,15 @@ msc theoretical physics · kraków, pl
 guest@hafych:~$ whoami
 nazarii hafych — krakow, pl (cet)
 msc theoretical physics; python / flutter engineer
+independent developer — shipped apps to google play
+
+guest@hafych:~$ cat experience.txt
+llm eval.....4000+ math/physics tasks reviewed, ex-mercor (undergrad → phd)
+apps.........local-first docs, pdf, audio tools [flutter+python]
+ops..........nmap recon api + dashboards [python]
 
 guest@hafych:~$ cat now.txt
-- reviewed 4000+ llm math/physics evals (undergrad → phd)
-- build local-first tools: docs, pdf, audio [flutter+python]
-- open to: data / research / ai eval / scientific software
+open to: data / research / ai eval / scientific software
 
 guest@hafych:~$ cat contact.txt
 linkedin    /in/nazarii-hafych
@@ -31,6 +36,8 @@ mail        nazariihafych@gmail.com
 
 guest@hafych:~$ _
 ```
+
+site → [hafych.github.io](https://hafych.github.io) · code → [recon_operator](https://github.com/hafych/recon_operator)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazarii-hafych/)
 [![telegram](https://img.shields.io/badge/telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/science_code)
