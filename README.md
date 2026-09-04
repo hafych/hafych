@@ -2,7 +2,6 @@
 guest@hafych:~$ whoami
 nazarii hafych — krakow, pl (cet)
 msc theoretical physics; python / flutter engineer
-physics expert @ mercor
 
 guest@hafych:~$ cat now.txt
 - review math/physics reasoning in llms, 4000+ tasks
